@@ -1,4 +1,4 @@
-Hi 👋, this is my homepage of an autodidact who's deeply passionate about probabilistic machine learning and forecasting. 
+Hi 🤗, this is my homepage of an autodidact who's deeply passionate about probabilistic machine learning and forecasting. 
 
 ### Blog:
 [![Personal Blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://callmequant.github.io/)](https://callmequant.github.io/)
