@@ -3,7 +3,7 @@ Hi 🤗, this is my homepage of an autodidact who's deeply passionate about prob
 ### Blog:
 [![Personal Blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://callmequant.github.io/)](https://callmequant.github.io/)
 
-### Primary interests:
+### Central interests:
 
 - Real-world applications: Demand/Sales Forecasting, Business Problems (Return Forecasting, Portfolio Optimization, Inventory Optimization).
 - Machine learning methodologies: Time Series Forecasting, Bayesian Inference, Probabilistic/Statistical Machine Learning.
