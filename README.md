@@ -19,3 +19,13 @@ Hi 🤗, this is my homepage of an autodidact who's deeply passionate about prob
 
 ### Contact 
 [![Linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/binh-ho-899390193/)](https://www.linkedin.com/in/binh-ho-899390193/)
+
+
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CallmeQuant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=474c4d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallmeQuant&theme=radical"/>
+</a>
+
+<br/>
