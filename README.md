@@ -5,14 +5,14 @@ Hi 🤗, this is my homepage of an autodidact who's deeply passionate about prob
 
 ### Central interests:
 
-- Real-world applications: Demand/Sales Forecasting, Business Problems (Credit Scoring, Portfolio Optimization, Inventory Optimization).
-- Machine learning methodologies: Time Series Forecasting, Bayesian Inference, Probabilistic/Statistical Machine Learning.
+- Real-world applications: Demand/Sales Forecasting, Business Problems (Credit Scoring, Customer Retention, Portfolio Optimization, Inventory Optimization).
+- Machine learning methodologies: Time Series Forecasting, Bayesian Inference (Approximate Inference), Probabilistic/Statistical Machine Learning.
 - Algorithm for optimizations: CVXOPT, CVXPY, GUROBI.
 
 ### Techincal Stack:
 
 - Programming languages: ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python), ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3).
-- Machine learning frameworks: ![Scikit-Learn](https://img.shields.io/badge/-Sklearn-d6882f.svg?style=flat&logo=Scikit-learn), ![Pytorch](https://img.shields.io/badge/-Pytorch-a8502f.svg?style=flat&logo=Pytorch), (a little bit Tensorflow and Tensorflow Probability).
+- Machine learning (Deep learning) frameworks: ![Scikit-Learn](https://img.shields.io/badge/-Sklearn-d6882f.svg?style=flat&logo=Scikit-learn), ![Pytorch](https://img.shields.io/badge/-Pytorch-a8502f.svg?style=flat&logo=Pytorch), (a little bit Tensorflow and Tensorflow Probability).
 - Visualization Libraries: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-fca862.svg?style=flat&logo=matplotlib), ggplot2.
 - Editors: ![Pycharm](http://img.shields.io/badge/-Pycharm-49e031.svg?style=flat&logo=Pycharm), ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio).
 - Database: ![SQL Server](https://img.shields.io/badge/-SQL-1d586e.svg?style=flat&logo=SQL)
