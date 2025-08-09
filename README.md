@@ -7,7 +7,7 @@ Hi 🤗, this is my homepage of an autodidact who's deeply passionate about stat
 
 - Machine learning methodologies:
   + Time Series (TS): TS Forecasting, TS Classification, TS Representation Learning, TS Generation.
-  + Probabilistic/Statistical Machine Learning: Learning Theory, Deep Generative Models (Energy-Based Models, VAE, Flow Models, Diffusion Models), Approximate Bayesian Inference (MCMC, VI).
+  + Probabilistic/Statistical Machine Learning: Learning Theory, Deep Generative Models (Energy-Based Models, VAE, Flow Models, Diffusion Models), Approximate Bayesian Inference (MCMC, VI), Uncertainty Quantification.
   + High-dimensional Statistics: Variable Selection, Missing Data.
 - Real-world applications: High-dimensional Problems in Biostatistics, Demand/Sales Forecasting, Business Problems (Credit Scoring, Customer Retention, Portfolio Optimization, Inventory Optimization).
 
