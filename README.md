@@ -1,7 +1,4 @@
-Hi 🤗, this is my homepage of an autodidact who's deeply passionate about statistics, machine learning, and time series.
-
-### Blog:
-[![Personal Blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://callmequant.github.io/)](https://callmequant.github.io/)
+I’m an independent researcher fascinated by the intersection of statistics, machine learning, and time series. My work blends mathematical rigor with practical modeling, drawing from areas such as high-dimensional statistics, learning theory, probabilistic modeling, generative models, and state-space systems.
 
 ### Central interests:
 
@@ -9,7 +6,7 @@ Hi 🤗, this is my homepage of an autodidact who's deeply passionate about stat
   + Time Series (TS): TS Forecasting, TS Classification, TS Representation Learning, TS Generation.
   + Probabilistic/Statistical Machine Learning: Learning Theory, Deep Generative Models (Energy-Based Models, VAE, Flow Models, Diffusion Models), Approximate Bayesian Inference (MCMC, VI), Uncertainty Quantification.
   + High-dimensional Statistics: Variable Selection, Missing Data.
-- Real-world applications: High-dimensional Problems in Biostatistics, Demand/Sales Forecasting, Business Problems (Credit Scoring, Customer Retention, Portfolio Optimization, Inventory Optimization).
+- Real-world applications: High-dimensional Problems in Biostatistics, Demand/Sales Forecasting, Business Problems (Credit Scoring, Customer Retention,Marketing Mixed Modelling, Portfolio Optimization, Inventory Optimization).
 
 
 ### Techincal Stack:
